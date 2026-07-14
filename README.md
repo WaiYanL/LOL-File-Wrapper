@@ -1,4 +1,4 @@
-# <img src="logo-removebg_fix.png" width="45" valign="middle"> LOL File Wrapper
+# <img src="icon.png" width="45" valign="middle"> LOL File Wrapper
 # LOL File Wrapper
 
 A secure, desktop-based file archiving and encryption tool built with Python and PySide6 for GUI. 
@@ -18,7 +18,7 @@ LOL File Wrapper allows you to pack single or multiple files into a custom archi
 * **Salting:** Unique 16-byte random salts and nonces are generated for every encrypted payload.
 * **Metadata Protection:** Original filenames are obfuscated using a custom Xorshift cipher before being written to the JSON header.
 
-> **⚠️ WARNING:** There is no "forgot password" option. If you encrypt an archive and forget your passphrase, your data is mathematically impossible to recover. Use at your own risk.
+> **⚠️ WARNING:** There is no "forgot password" option. If you encrypt an archive and forget your passphrase, your data is impossible to recover. Use at your own risk.
 
 ## Prerequisites
 Most of the libraries used in this project are part of the Python Standard Library and do not require installation. 
