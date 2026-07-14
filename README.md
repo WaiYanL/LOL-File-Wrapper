@@ -35,6 +35,6 @@ You can install these libraries using:
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone [https://github.com/WaiYanL/lol-file-wrapper.git](https://github.com/yourusername/lol-file-wrapper.git)
+   git clone https://github.com/WaiYanL/lol-file-wrapper.git
    cd lol-file-wrapper
    python3 file_wrapper.py
