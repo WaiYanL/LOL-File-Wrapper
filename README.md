@@ -1,5 +1,4 @@
 # <img src="icon.png" width="45" valign="middle"> LOL File Wrapper
-# LOL File Wrapper
 
 A secure, desktop-based file archiving and encryption tool built with Python and PySide6 for GUI. 
 
