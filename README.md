@@ -3,7 +3,7 @@
 
 A secure, desktop-based file archiving and encryption tool built with Python and PySide6 for GUI. 
 
-LOL File Wrapper allows you to pack single or multiple files into a custom archive container extension (defaulting to `.lol`). It also features AES-256 encryption to ensure your data remains completely private.
+LOL File Wrapper allows you to pack single or multiple files into a custom archive (defaulting to `.lol`). It also features AES-256 encryption to ensure your data remains completely private.
 
 ## Features
 * **Multi-File Bundling:** Pack multiple files into a single archive.
