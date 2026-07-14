@@ -38,3 +38,7 @@ You can install these libraries using:
    git clone https://github.com/WaiYanL/lol-file-wrapper.git
    cd lol-file-wrapper
    python3 file_wrapper.py
+
+
+### 📥 Download (Currently Only Avaiable Windows Executable)
+**[Click here to download the ready-to-run .exe and installer](https://github.com/WaiYanL/lol-file-wrapper/releases/latest)**
