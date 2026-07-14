@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="icon.png" alt="LOL File Wrapper Logo" width="150">
-</p>
+# <img src="logo-removebg_fix.png" width="45" valign="middle"> LOL File Wrapper
 # LOL File Wrapper
 
 A secure, desktop-based file archiving and encryption tool built with Python and PySide6 for GUI. 
@@ -28,9 +26,11 @@ Most of the libraries used in this project are part of the Python Standard Libra
 You only need Python 3.9+ and the following external packages:
 * `PySide6`
 * `cryptography`
+  
+
 You can install these libraries using:
 * `pip install pyside6`
-* * `pip install cryptography`
+* `pip install cryptography`
 
 ## How to Run the Script
 
